@@ -48,7 +48,7 @@ pickleshare==0.7.5
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 pycodestyle==2.5.0
-pygments==2.6.1
+pygments==2.7.4
 pylint==2.4.4
 pyqt5==5.14.2
 pyqt5-sip==12.7.2
