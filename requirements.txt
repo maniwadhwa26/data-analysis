@@ -32,7 +32,7 @@ jupyterlab-pygments==0.1.0
 lazy-object-proxy==1.4.3
 markupsafe==2.0.0a1
 mccabe==0.6.1
-mistune==0.8.4
+mistune==2.0.3
 nbclient==0.2.0
 nbconvert==6.0.0a1
 nbformat==5.0.5
